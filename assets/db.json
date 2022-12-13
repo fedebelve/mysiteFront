@@ -1,0 +1,48 @@
+{
+    "proyectos": [
+      {
+        "id": 1,
+        "src": "/assets/php.png",
+        "title": "Full-Stack Dev",
+        "since": "9 Meses",
+        "year": "2005",
+        "tags": ["dev"],
+        "description": "Mi primer trabajo! con el curso de Desarrollador Web en IT Master ya terminado, logré consguir mi primer trabajo como desarrollador. Era para una empresa llamada Pirámide Technologies. Básicamente me dedicaba a la resolución de bugs y algún que otro desarrollo de nueva features, pero estas estaban más destinadas a developers con otro señority"
+      },
+      {
+        "id": 2,
+        "src": "/assets/Logo entero.png",
+        "title": "Full-Stack Dev",
+        "since": "3 meses",
+        "year": "2005",
+        "tags": ["dev"],
+        "description": "Luego de varios años de estar alejado de lo técnico, decidí retomar esas malas juntas y volver a desarrollar. No me gusta ser ajeno a esto, quiero saber qué y cómo se construye software para poder tener una visión más real sobre los proyectos. Es por esto que me embarqué en actulizar conocimiento que tenía hace algunos años cuando tomé el curso en IT Master. Por estas razones es que desarrollé FixApp. Una aplicación para poder llevar adelante las tareas que necesita un taller mecánico, gestión y notificación a usuarios y gestión de costos e ingresos. "
+      },
+      {
+        "id": 3,
+        "src": "/assets/etl.png",
+        "title": "BI Dev",
+        "since": "9 Meses",
+        "year": "2005",
+        "tags": ["bi", "dev"],
+        "description": "Luego de trabajar como desarrollador, empecé a tener mucha curiosidad por los Datos y cómo explotarlos. La toma de decisiones estratégicas tinene que depender de conocimiento objetivo que se llega a través del Data Analysis. Trabajé en la misma facultad que estudaba, UTN - FRBA, dentro del equipo de BI. La mayor parte del trabajo era el desarrollo de ETL's. Extraer, Transformar y Cargar información en un Datawarehouse."
+      },
+      {
+        "id": 4,
+        "src": "https://placeimg.com/320/200/arch",
+        "title": "Coordinador BI",
+        "since": "1 Año",
+        "year": "2005",
+        "tags": ["bi"],
+        "description": ""
+      }
+    ],
+    "formacion": [
+        {
+            "year": "2009",
+            "type": "Universitario",
+            "lugar": "UTN-FRBA",
+            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis iure, excepturi eligendi, quibusdam explicabo ea deleniti, velit rerum in ex tempore suscipit soluta ut quisquam. Dolorum, vero ad. Cumque, excepturi."
+        }
+    ]
+}
